@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "others_0": "linestring1", "others_1": "信息1"}, "geometry": { "type": "LineString", "coordinates": [ [ 80, 50], [ 150, 30 ] ] } },
+{ "type": "Feature", "properties": { "others_0": "linestring2", "others_1": "信息2"}, "geometry": { "type": "LineString", "coordinates": [ [ 5.0, 6.0 ], [ 7.0, 8.0 ] ] } }
+]
+}
