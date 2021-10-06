@@ -1,0 +1,552 @@
+[
+  {
+    "name": "\u540d\u8bcd",
+    "itemStyle": {
+      "color": "#CD5C5C"
+    },
+    "children": [
+      {
+        "name": "\u540d\u8bcd-\u5730\u540d",
+        "itemStyle": {
+          "color": "#8FBC8F"
+        },
+        "children": [
+          {
+            "name": "\u6f2b\u5a01",
+            "value": 1,
+            "itemStyle": {
+              "color": "#8FBC8F"
+            }
+          },
+          {
+            "name": "\u82f1\u96c4",
+            "value": 1,
+            "itemStyle": {
+              "color": "#BC8F8F"
+            }
+          }
+        ]
+      },
+      {
+        "name": "\u540d\u8bcd",
+        "itemStyle": {
+          "color": "#2E8B57"
+        },
+        "children": [
+          {
+            "name": "\u7535\u5f71",
+            "value": 1,
+            "itemStyle": {
+              "color": "#B22222"
+            }
+          },
+          {
+            "name": "\u65f6\u95f4",
+            "value": 1,
+            "itemStyle": {
+              "color": "#800000"
+            }
+          },
+          {
+            "name": "\u89d2\u8272",
+            "value": 1,
+            "itemStyle": {
+              "color": "#FFA500"
+            }
+          },
+          {
+            "name": "\u5267\u60c5",
+            "value": 1,
+            "itemStyle": {
+              "color": "#F08080"
+            }
+          },
+          {
+            "name": "\u7ed3\u5c40",
+            "value": 1,
+            "itemStyle": {
+              "color": "#FF69B4"
+            }
+          },
+          {
+            "name": "\u60c5\u6000",
+            "value": 1,
+            "itemStyle": {
+              "color": "#6A5ACD"
+            }
+          },
+          {
+            "name": "\u6545\u4e8b",
+            "value": 1,
+            "itemStyle": {
+              "color": "#E9967A"
+            }
+          },
+          {
+            "name": "\u89c2\u4f17",
+            "value": 1,
+            "itemStyle": {
+              "color": "#191970"
+            }
+          },
+          {
+            "name": "\u5b87\u5b99",
+            "value": 1,
+            "itemStyle": {
+              "color": "#556B2F"
+            }
+          },
+          {
+            "name": "\u7c89\u4e1d",
+            "value": 1,
+            "itemStyle": {
+              "color": "#F4A460"
+            }
+          },
+          {
+            "name": "\u590d\u4ec7\u8005",
+            "value": 1,
+            "itemStyle": {
+              "color": "#A52A2A"
+            }
+          },
+          {
+            "name": "\u7f8e\u961f",
+            "value": 1,
+            "itemStyle": {
+              "color": "#90EE90"
+            }
+          },
+          {
+            "name": "\u961f\u957f",
+            "value": 1,
+            "itemStyle": {
+              "color": "#FF6347"
+            }
+          },
+          {
+            "name": "\u903b\u8f91",
+            "value": 1,
+            "itemStyle": {
+              "color": "#6A5ACD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "\u540d\u8bcd-\u673a\u6784\u56e2\u4f53\u540d",
+        "itemStyle": {
+          "color": "#2F4F4F"
+        },
+        "children": [
+          {
+            "name": "\u590d\u8054",
+            "value": 1,
+            "itemStyle": {
+              "color": "#696969"
+            }
+          }
+        ]
+      },
+      {
+        "name": "\u540d\u8bcd-\u4eba\u540d",
+        "itemStyle": {
+          "color": "#8B4513"
+        },
+        "children": [
+          {
+            "name": "\u8c22\u8c22",
+            "value": 1,
+            "itemStyle": {
+              "color": "#F08080"
+            }
+          },
+          {
+            "name": "\u96f7\u795e",
+            "value": 1,
+            "itemStyle": {
+              "color": "#8B0000"
+            }
+          },
+          {
+            "name": "\u7f57\u7d20",
+            "value": 1,
+            "itemStyle": {
+              "color": "#4B0082"
+            }
+          },
+          {
+            "name": "\u53f2\u8bd7",
+            "value": 1,
+            "itemStyle": {
+              "color": "#90EE90"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u6570\u8bcd",
+    "itemStyle": {
+      "color": "#4B0082"
+    },
+    "children": [
+      {
+        "name": "\u6570\u8bcd",
+        "itemStyle": {
+          "color": "#FF7F50"
+        },
+        "children": [
+          {
+            "name": "\u4e00\u4e2a",
+            "value": 1,
+            "itemStyle": {
+              "color": "#A52A2A"
+            }
+          },
+          {
+            "name": "\u5341\u5e74",
+            "value": 1,
+            "itemStyle": {
+              "color": "#808080"
+            }
+          },
+          {
+            "name": "\u4e00\u90e8",
+            "value": 1,
+            "itemStyle": {
+              "color": "#B22222"
+            }
+          },
+          {
+            "name": "\u4e00\u573a",
+            "value": 1,
+            "itemStyle": {
+              "color": "#008080"
+            }
+          },
+          {
+            "name": "\u4e09\u5343",
+            "value": 1,
+            "itemStyle": {
+              "color": "#191970"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u5b57\u7b26\u4e32",
+    "itemStyle": {
+      "color": "#8A2BE2"
+    },
+    "children": [
+      {
+        "name": "\u5b57\u7b26\u4e32",
+        "itemStyle": {
+          "color": "#006400"
+        },
+        "children": [
+          {
+            "name": "\u94a2\u94c1\u4fa0",
+            "value": 1,
+            "itemStyle": {
+              "color": "#D2B48C"
+            }
+          },
+          {
+            "name": "I",
+            "value": 1,
+            "itemStyle": {
+              "color": "#000080"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u533a\u522b\u8bcd",
+    "itemStyle": {
+      "color": "#3CB371"
+    },
+    "children": [
+      {
+        "name": "\u533a\u522b\u8bcd",
+        "itemStyle": {
+          "color": "#00008B"
+        },
+        "children": [
+          {
+            "name": "\u8d85\u7ea7",
+            "value": 1,
+            "itemStyle": {
+              "color": "#00008B"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u526f\u8bcd",
+    "itemStyle": {
+      "color": "#F08080"
+    },
+    "children": [
+      {
+        "name": "\u526f\u8bcd",
+        "itemStyle": {
+          "color": "#800000"
+        },
+        "children": [
+          {
+            "name": "\u771f\u7684",
+            "value": 1,
+            "itemStyle": {
+              "color": "#6A5ACD"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u52a8\u8bcd",
+    "itemStyle": {
+      "color": "#008000"
+    },
+    "children": [
+      {
+        "name": "\u52a8\u8bcd",
+        "itemStyle": {
+          "color": "#FF1493"
+        },
+        "children": [
+          {
+            "name": "\u60f3",
+            "value": 1,
+            "itemStyle": {
+              "color": "#D2691E"
+            }
+          },
+          {
+            "name": "\u544a\u522b",
+            "value": 1,
+            "itemStyle": {
+              "color": "#D2B48C"
+            }
+          },
+          {
+            "name": "\u611f\u8c22",
+            "value": 1,
+            "itemStyle": {
+              "color": "#FA8072"
+            }
+          },
+          {
+            "name": "\u7ed3\u675f",
+            "value": 1,
+            "itemStyle": {
+              "color": "#F08080"
+            }
+          },
+          {
+            "name": "\u7231",
+            "value": 1,
+            "itemStyle": {
+              "color": "#191970"
+            }
+          },
+          {
+            "name": "\u6ca1",
+            "value": 1,
+            "itemStyle": {
+              "color": "#191970"
+            }
+          },
+          {
+            "name": "\u706d\u9738",
+            "value": 1,
+            "itemStyle": {
+              "color": "#FF4500"
+            }
+          },
+          {
+            "name": "\u518d\u89c1",
+            "value": 1,
+            "itemStyle": {
+              "color": "#FFD700"
+            }
+          },
+          {
+            "name": "\u7b11",
+            "value": 1,
+            "itemStyle": {
+              "color": "#FF69B4"
+            }
+          },
+          {
+            "name": "\u8fd9\u662f",
+            "value": 1,
+            "itemStyle": {
+              "color": "#CD5C5C"
+            }
+          },
+          {
+            "name": "\u559c\u6b22",
+            "value": 1,
+            "itemStyle": {
+              "color": "#8B0000"
+            }
+          },
+          {
+            "name": "\u62cd",
+            "value": 1,
+            "itemStyle": {
+              "color": "#BC8F8F"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u5f62\u5bb9\u8bcd",
+    "itemStyle": {
+      "color": "#FF7F50"
+    },
+    "children": [
+      {
+        "name": "\u5f62\u5bb9\u8bcd",
+        "itemStyle": {
+          "color": "#DC143C"
+        },
+        "children": [
+          {
+            "name": "\u5b8c\u7f8e",
+            "value": 1,
+            "itemStyle": {
+              "color": "#CD5C5C"
+            }
+          },
+          {
+            "name": "\u9057\u61be",
+            "value": 1,
+            "itemStyle": {
+              "color": "#DAA520"
+            }
+          },
+          {
+            "name": "\u597d",
+            "value": 1,
+            "itemStyle": {
+              "color": "#E9967A"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u91cf\u8bcd",
+    "itemStyle": {
+      "color": "#800080"
+    },
+    "children": [
+      {
+        "name": "\u91cf\u8bcd",
+        "itemStyle": {
+          "color": "#D2B48C"
+        },
+        "children": [
+          {
+            "name": "\u7cfb\u5217",
+            "value": 1,
+            "itemStyle": {
+              "color": "#CD853F"
+            }
+          },
+          {
+            "name": "\u573a",
+            "value": 1,
+            "itemStyle": {
+              "color": "#00008B"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u82f1\u6587",
+    "itemStyle": {
+      "color": "#483D8B"
+    },
+    "children": [
+      {
+        "name": "\u82f1\u6587",
+        "itemStyle": {
+          "color": "#8FBC8F"
+        },
+        "children": [
+          {
+            "name": "MCU",
+            "value": 1,
+            "itemStyle": {
+              "color": "#F4A460"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u4ee3\u8bcd",
+    "itemStyle": {
+      "color": "#CD5C5C"
+    },
+    "children": [
+      {
+        "name": "\u4ee3\u8bcd",
+        "itemStyle": {
+          "color": "#32CD32"
+        },
+        "children": [
+          {
+            "name": "\u8fd9\u662f",
+            "value": 1,
+            "itemStyle": {
+              "color": "#3CB371"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u52a9\u8bcd",
+    "itemStyle": {
+      "color": "#8FBC8F"
+    },
+    "children": [
+      {
+        "name": "\u52a9\u8bcd",
+        "itemStyle": {
+          "color": "#191970"
+        },
+        "children": [
+          {
+            "name": "\u6765\u8bf4",
+            "value": 1,
+            "itemStyle": {
+              "color": "#D2B48C"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
